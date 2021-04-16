@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.exe
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\ref\DateTimeTask.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\bin\Debug\net5.0\DateTimeTask.pdb
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\ref\DateTimeTask.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.pdb
+C:\CodebitsAcademy\LabTasks\LabTask16\DateTimeTask\obj\Debug\net5.0\DateTimeTask.genruntimeconfig.cache

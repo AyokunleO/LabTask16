@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.exe
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.deps.json
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\ref\JamesProblem.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\bin\Debug\net5.0\JamesProblem.pdb
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\ref\JamesProblem.dll
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.pdb
+C:\CodebitsAcademy\LabTasks\LabTask16\JamesProblem\obj\Debug\net5.0\JamesProblem.genruntimeconfig.cache
